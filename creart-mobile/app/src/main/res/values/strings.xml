@@ -1,0 +1,173 @@
+<resources>
+    <string name="app_name">Creart</string>
+
+    <string name="productos">Productos</string>
+    <string name="destacados">Destacados</string>
+    <string name="categorias">Categorias</string>
+    <string name="ab1_inversions">Inversions</string>
+    <string name="ab2_quick_yoga"> </string>
+    <string name="ab3_stretching"> </string>
+    /*String categorias*/
+    <string name="Huevos">Huevos</string>
+    <string name="Carnes">Carnes</string>
+    <string name="Verduras">Verduras</string>
+    <string name="Frutas">Frutas</string>
+    <string name="Postres">Postres</string>
+
+    /*String productos*/
+    <string name="Carne">Carne de Res</string>
+    <string name="Leche">Leche</string>
+    <string name="Miel">Miel</string>
+
+    /*String Canal de Notificaciones*/
+    <string name="canal_tienda">Catalogo de oleos</string>
+    <string name="canal_notificaciones">Oleos</string>
+    <string name="titulo1">Sumergete en los diferentes oleos que tenemos para ofrecerte
+        y encuentra el adecuado para tu espacio.
+    </string>
+
+    <string name="flores1">Marco Beige </string>
+    <string name="flores2">Marco Cafe</string>
+    <string name="flores3">Marco Negro</string>
+    <string name="flores4">Marco Cobrizo</string>
+    <string name="flores5">Marco Blanco</string>
+    <string name="flores6">Marco Dorado</string>
+
+
+    <string name="Oleo1">Oleo </string>
+    <string name="Oleo2">Oleo </string>
+    <string name="Oleo3">Oleo </string>
+    <string name="Oleo4">Oleo </string>
+    <string name="Oleo5">Oleo  </string>
+    <string name="Oleo6">Oleo  </string>
+    <string name="Oleo7">Oleo  </string>
+    <string name="Oleo8">Oleo  </string>
+    <string name="Oleo9">Oleo  </string>
+    <string name="Oleo10">Oleo  </string>
+    <string name="Oleo11">Oleo  </string>
+    <string name="Oleo12">Oleo  </string>
+    <string name="Oleo13">Oleo  </string>
+    <string name="Oleo14">Oleo  </string>
+    <string name="Oleo15">Oleo  </string>
+    <string name="Oleo16">Oleo  </string>
+    <string name="Oleo17">Oleo  </string>
+    <string name="Oleo18">Oleo  </string>
+
+    <string name="canva">Canva </string>
+
+
+    <string name="detalles1"> Hermoso para oficina </string>
+    <string name="detalles2"> Replica de la noche estrellada </string>
+    <string name="detalles3"> Oleo de tigre ideal para atmosfera felina </string>
+    <string name="detalles4"> Oleo de pintor Carlos Cervantes  </string>
+    <string name="detalles5"> Buda al oleo para la armonia del hogar  </string>
+    <string name="detalles6"> Oleos de diferentes tamanos  </string>
+    <string name="detalles7"> Puertas del nirvana </string>
+    <string name="detalles8">  Oleo abstaracto con hoja de oro  </string>
+    <string name="detalles9">   </string>
+    <string name="detalles10"> Oleo de flores para tener una calides  </string>
+    <string name="detalles11"> Decora los espacios de tus peques  </string>
+    <string name="detalles12"> Cuadros para armonizar tus espacios </string>
+    <string name="detalles13"> La bailarina oleo en impresionismo </string>
+    <string name="detalles14">   </string>
+    <string name="detalles15">   </string>
+    <string name="detalles16">   </string>
+
+
+
+
+
+
+
+    <string name="descflores1">Moldura de madera para todos tus trabajos
+    precio sujeto a tamaño</string>
+    <string name="descflores2">Moldura de madera para todos tus trabajos
+    precio sujeto a tamaño</string>
+    <string name="descflores3">Moldura de madera para todos tus trabajos
+    precio sujeto a tamaño</string>
+    <string name="descflores4">Moldura de madera para todos tus trabajos
+    precio sujeto a tamaño</string>
+    <string name="descflores5">Moldura de madera para todos tus trabajos
+    precio sujeto a tamaño</string>
+    <string name="descflores6">Moldura de madera para todos tus trabajos
+    precio sujeto a tamaño</string>
+
+
+    <string name="frutas1">Manzana</string>
+    <string name="frutas2">Pera</string>
+    <string name="frutas3">Banano</string>
+    <string name="frutas4">Platano</string>
+    <string name="frutas5">Lechuga</string>
+    <string name="frutas6">Tomate</string>
+
+    <string name="descfrutas1">La manzana o poma es el fruto comestible de la especie Malus domestica</string>
+    <string name="descfrutas2">Se denomina pera al fruto de distintas especies del género Pyrus</string>
+    <string name="descfrutas3">La banana conocido también como banano</string>
+    <string name="descfrutas4">El platano conocido también como banano</string>
+    <string name="descfrutas5">La lechuga es una rica fuente de vitamina K y vitamina A</string>
+    <string name="descfrutas6">El tomate es el fruto de la planta Solanum lycopersicum, </string>
+
+    <string name="foto1">Fotos boda</string>
+    <string name="foto2">Fotos boda</string>
+    <string name="foto3">Fotos XV</string>
+    <string name="foto4">Fotos XV</string>
+    <string name="foto5">Fotos XV</string>
+    <string name="foto6">Fotos Familiares</string>
+    <string name="foto7">Fotos Familiares</string>
+    <string name="foto8">Fotos Familiares</string>
+    <string name="foto9">Fotos Familiares</string>
+    <string name="foto10">Fotos Navidades</string>
+    <string name="foto11">Fotos Dias de Muertos</string>
+    <string name="foto12">Fotos Dias de Muertos</string>
+    <string name="foto13">Fotos 16 de Sepetiembre</string>
+
+
+
+    <string name="fotoh1">Novios de altar</string>
+    <string name="fotoh2">Capturando los mejores momentos</string>
+    <string name="fotoh3">xv en voz de la naturaleza</string>
+    <string name="fotoh4">Busca la esencia de tus XV</string>
+    <string name="fotoh5">Fucionando la antiguedad conlo moderno </string>
+    <string name="fotoh6">Captura tus mejores moementos en fotos</string>
+    <string name="fotoh7">Los recuerdos para un manana</string>
+    <string name="fotoh8">Tu recuerdos en tu mano </string>
+    <string name="fotoh9">Una navidad especial</string>
+    <string name="fotoh10">Los nuestros mas cercas de nosotros</string>
+    <string name="fotoh11">Captura los moentos magicos</string>
+    <string name="fotoh12">Se la protagonista de tus historias</string>
+    <string name="fotoh13">Celebramos contigo esos dias unicos</string>
+
+    <string name="detallesc1"> Hermoso para cuadro para sunroom </string>
+    <string name="detallesc2"> Paraja de gatitos para tus ninos</string>
+    <string name="detallesc3"> Convina lo salvaje de la naturaleza con tu hogar</string>
+    <string name="detallesc4"> Decora tus espacios</string>
+    <string name="detallesc5"> Para los amantes de los perritos </string>
+    <string name="detallesc6"> Decora tu navidad </string>
+    <string name="detallesc7"> Villa navidena para tu casa </string>
+    <string name="detallesc8">  Celebra la navida con un Canva  </string>
+    <string name="detallesc9">  Decora la habitacion de tus hijos</string>
+    <string name="detallesc10">  Excelente para exteriosres</string>
+    <string name="detallesc11"> Decora los espacios de tus peques  </string>
+    <string name="detallesc12"> Cuadros para armonizar tus espacios </string>
+    <string name="detallesc13"> Texturizados de aurora boreal </string>
+    <string name="detallesc14">  Canva Popart </string>
+    <string name="detallesc15"> Hermoso cuadro refresancate explocion de colores</string>
+
+
+    <string name="lacteos1">Marco</string>
+
+    <string name="desclacteos1">Marco de madera color beige</string>
+    <string name="desclacteos2">Marco de madera color caoba</string>
+    <string name="desclacteos3">Marco de madera color negro</string>
+    <string name="desclacteos4">Marco de madera color tinto</string>
+    <string name="desclacteos5">Marco de madera color blanco</string>
+    <string name="desclacteos6">Marco de madera color dorado</string>
+    <string name="desclacteos7">Marco de madera color dorado con choclate</string>
+    <string name="desclacteos8">Marco de madera color parota</string>
+    <string name="desclacteos9">Marco de madera color chocolate</string>
+    <string name="desclacteos10">Marco de madera color gris platinado</string>
+    <string name="desclacteos11">Marco de madera color clasico dorado en cafe</string>
+    <string name="desclacteos12">Marco de madera color clasico dorado en amarillo</string>
+    <string name="desclacteos13">Marco de madera color gris con reliebe</string>
+
+</resources>
